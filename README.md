@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yogiraj Aiwale</h1>
-<h3 align="center">A passionate Full Stack Python developer from India</h3>
+### Hi there, I'm Yogiraj 👋
+<h5 align="center">A passionate Full Stack Python developer from India</h5>
 
 
 <h3 align="left">Technologies:</h3>
