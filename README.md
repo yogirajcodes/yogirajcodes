@@ -1,5 +1,5 @@
 ### Hi there, I'm Yogiraj 👋
-<h5 align="center">A passionate Full Stack Python developer from India</h5>
+<h5 align="left">A passionate Full Stack Python developer from India</h5>
 
 
 <h3 align="left">Technologies:</h3>
