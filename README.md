@@ -3,8 +3,8 @@
 
 
 <h3 align="left">Technologies:</h3>
-- Frontend development using HTML, CSS and JavaScipt
-- Backend development using Python
+- Frontend development using<b> HTML, CSS and JavaScipt</b><br>
+- Backend development using <b>Python</b><br>
 - Making for <b>Relational Database Management System</b>
 
 
